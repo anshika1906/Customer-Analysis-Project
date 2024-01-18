@@ -6,9 +6,9 @@ marketing efforts.<br>
 <b>Skills Used-</b><br>
 MS Excel, MySQL and Tableau<br>
 
--Manipulated and cleaned data using MS Excel<br>
--Queried Datset using MySQL<br>
--Visualized Data Using Tableau BI tool.<br>
+-Manipulated and cleaned data using <b>MS Excel</b><br>
+-Queried Datset using<b> MySQL</B><br>
+-Visualized Data Using<b> Tableau</B> BI tool.<br>
 
 <b>Here is the Public link to the interactive dashboard-</b><br>
 https://public.tableau.com/app/profile/anshika.jain7237/viz/Customeranalysisdashboard_16951272202470/Dashboard1?publish=yes
